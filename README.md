@@ -4,3 +4,6 @@
 2. No. It is because it looks like this feature need to interact with other functions to check if the message is sent to other user. 
 
 3. Yes. It is because this feature doesn't need to interact with other functions. It specifically focus on the length of text a user can type. Changing the maximum length won't affect other non-related unit test. 
+
+![image](./Screenshot1.png)
+![image](./Screenshot2.png)
